@@ -9,4 +9,13 @@ Strong {
     text-size-adjust: 16px;
 }
 
+body {
+    background: url('????') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  
 Contact
