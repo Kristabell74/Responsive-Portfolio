@@ -7,7 +7,7 @@ body {
   }
 
   Strong {
-    color: rgb(148, 238, 148);
+    color: rgb(240, 112, 80);
     text-size-adjust: 30px;
 }
 
@@ -17,4 +17,7 @@ body {
 
 }
 
+footer {
+  background-color: rgb(240, 112, 80)
+}
 

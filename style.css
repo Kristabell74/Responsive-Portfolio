@@ -35,3 +35,7 @@ body {
  .card-text {
     font-size: 16px;
  }
+
+ footer {
+    background-color: rgb(148, 238, 148);
+  }
